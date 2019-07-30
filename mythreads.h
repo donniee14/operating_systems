@@ -1,7 +1,4 @@
 /*	Donald Elmore
-	Project 2 - mythreads.h
-	ECE 3220
-
 	This is the header file for mythreads.c
 */
 
