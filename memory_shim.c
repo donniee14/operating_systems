@@ -1,7 +1,4 @@
 /*	Donald Elmore
-	Project 1 - memory_shim.c
-	ECE 3220
-
 	File Description:
 		This file handles adding to and removing from the linked list along
 			with reporting if there were any leaks, the size of the leaks, 
