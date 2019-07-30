@@ -1,7 +1,4 @@
 /*	Donald Elmore
-	Project 1 - leakcount.c
-	ECE 3220
-
 	File Description:
 		This file takes at minimum one argument:
 			the test program to be ran
