@@ -1,7 +1,4 @@
 /*	Donald Elmore
-	Project 2 - mythreads.c
-	ECE 3220
-
 	File Description:
 		This file contains all of the required functions to implement
 		an entire suite of thread managing functions.
